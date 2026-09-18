@@ -6,7 +6,8 @@ This folder contains high-level architecture views for **Opsify Kitchen**.
 |------|-------------|
 | [system-architecture.md](system-architecture.md) | System context — users, app, data, integrations (Mermaid) |
 | [application-architecture.md](application-architecture.md) | Application modules and request flow (Mermaid) |
-| [system-architecture.svg](system-architecture.svg) | Static system diagram suitable for README embeds |
+| [system-architecture.png](system-architecture.png) | Static system diagram (README embed) |
+| [system-architecture.svg](system-architecture.svg) | Vector version of the same diagram |
 
 ## Reading guide
 
@@ -17,5 +18,5 @@ This folder contains high-level architecture views for **Opsify Kitchen**.
 ## Suggested README embed
 
 ```markdown
-![Opsify Kitchen system architecture](architecture/system-architecture.svg)
+![Opsify Kitchen system architecture](architecture/system-architecture.png)
 ```

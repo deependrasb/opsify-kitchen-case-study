@@ -57,4 +57,4 @@ flowchart TB
 4. Payments, messaging, OAuth, and e-invoicing are outbound integrations.
 5. Printing is delegated to a local ESC/POS bridge that talks to thermal printers.
 
-Static export: [system-architecture.svg](system-architecture.svg)
+Static exports: [system-architecture.png](system-architecture.png) · [system-architecture.svg](system-architecture.svg)
